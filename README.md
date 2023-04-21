@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafo07707
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Html,css,js,php
+- 🌱 I’m currently learning Html,css,Java Script,Php(Laravel)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
